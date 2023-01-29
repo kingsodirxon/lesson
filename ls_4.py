@@ -44,3 +44,5 @@ while bc > ev:
     if bc % 5 == 0:
         print(bc)
     bc -= 1
+
+# и тут тоже коммент
